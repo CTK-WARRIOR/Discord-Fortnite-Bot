@@ -2,7 +2,7 @@
 
 ### OFFICIAL BOT LINKS
 
-https://dclist.net/bots/747698978765668355
+https://dclist.net/bots/fortnitebot
 
 https://discordbotlist.com/bots/fortnite-bot
 
