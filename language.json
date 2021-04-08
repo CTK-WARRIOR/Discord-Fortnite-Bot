@@ -96,5 +96,21 @@
     "INVITE": "Här är invitelänken",
     "HELP": "Jag har bara några kommandon just nu!"
   
+  },
+  "turkish": {
+    "SHOP_WARNING_1": "`f!shop daily`, `f!shop featured` veya `f!shop upcoming` kullanın.",
+    "SHOP_WARNING_2": "Mağaza şuanlık kullanılamaz.",
+    "PRICE": "Fiyat",
+    "RARITY": "Nadirlik",
+    "TYPE": "Tip",
+    "STATS_WARNING_1": "Lütfen oyuncunun ismini giriniz, `f!stats name`",
+    "STATS_WARNING_2": "Lütfen geçerli bir platform giriniz.",
+    "STATS_WAITING": "Oyuncuyu arıyorum.....",
+    "STATS_ERROR": "Oyuncuyu bulamadım.",
+    "ADD_SHOP_1": "Kanalı bahsetmen gerekiyor, `f!addshop #channel`",
+    "ADD_SHOP_2": "Fortnite günlük mağazaya ekledim.",
+    "ADMIN_ONLY": "Bu komut sadece Admin tarafından kullanılabilir.",
+    "INVITE": "Davet linkim burada.",
+    "HELP": "Şimdilik sadece birkaç komutum var."
   }
 }
