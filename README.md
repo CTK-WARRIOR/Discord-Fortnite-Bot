@@ -1,9 +1,11 @@
 # Discord-Fortnite-Bot
 
-OFFICIAL BOT LINKS: 
+### OFFICIAL BOT LINKS
 
-https://dclist.net/bots/747698978765668355\n
+https://dclist.net/bots/747698978765668355
 
 https://discordbotlist.com/bots/fortnite-bot
 
-SERVER : https://withwin.in/dbd
+
+### Server
+https://withwin.in/dbd
